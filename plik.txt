@@ -1,1 +1,2 @@
 iala ma kota
+dodanie nowej zmiennej
